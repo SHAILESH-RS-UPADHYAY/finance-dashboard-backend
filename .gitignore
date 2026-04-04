@@ -1,0 +1,18 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+venv/
+env/
+ENV/
+.venv/
+
+# Environment variables (SECURITY RISK IF PUSHED)
+.env
+
+# Database files
+*.sqlite3
+*.db
+finance.db
