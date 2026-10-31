@@ -1,3 +1,5 @@
+<p align="center"><img src=".github/logo.svg" width="88" height="88" alt="Finance dashboard backend logo"></p>
+
 # Finance Data Processing and Access Control Backend
 
 ## Overview
