@@ -2,6 +2,13 @@
 
 # Finance Data Processing and Access Control Backend
 
+<picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="https://shailesh-stats.vercel.app/api/plate?name=repo&amp;repo=finance-dashboard-backend&amp;theme=dark&amp;w=m">
+  <source media="(max-width: 600px)" srcset="https://shailesh-stats.vercel.app/api/plate?name=repo&amp;repo=finance-dashboard-backend&amp;theme=light&amp;w=m">
+  <source media="(prefers-color-scheme: dark)" srcset="https://shailesh-stats.vercel.app/api/plate?name=repo&amp;repo=finance-dashboard-backend&amp;theme=dark">
+  <img src="https://shailesh-stats.vercel.app/api/plate?name=repo&amp;repo=finance-dashboard-backend&amp;theme=light" width="100%" alt="Commits per week and languages for Finance API, drawn live from GitHub.">
+</picture>
+
 ## Overview
 This is a robust, clean, and easily maintainable backend API built for a finance dashboard. It handles user authentication, role-based access control (Admin, Analyst, Viewer), and full CRUD operations for financial records.
 
